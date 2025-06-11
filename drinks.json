@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mojito",
+    "ingredients": ["white rum", "mint leaves", "lime juice", "sugar", "soda water"],
+    "instructions": "Muddle mint leaves with sugar and lime juice, add rum, top with soda water, and garnish with mint.",
+    "tags": ["refreshing", "minty", "citrus"]
+  },
+  {
+    "name": "Pina Colada",
+    "ingredients": ["white rum", "coconut cream", "pineapple juice"],
+    "instructions": "Blend all ingredients with ice until smooth. Serve in a chilled glass.",
+    "tags": ["tropical", "creamy"]
+  },
+  {
+    "name": "Cosmopolitan",
+    "ingredients": ["vodka", "triple sec", "lime juice", "cranberry juice"],
+    "instructions": "Shake all ingredients with ice, strain into a chilled glass, and garnish with a lime wheel.",
+    "tags": ["sour", "fruity"]
+  },
+  {
+    "name": "Margarita",
+    "ingredients": ["tequila", "lime juice", "triple sec"],
+    "instructions": "Shake all ingredients with ice, strain into a salt-rimmed glass.",
+    "tags": ["classic", "sour", "citrus"]
+  },
+  {
+    "name": "Old Fashioned",
+    "ingredients": ["bourbon", "sugar", "bitters"],
+    "instructions": "Muddle sugar and bitters, add bourbon and stir with ice. Garnish with orange peel.",
+    "tags": ["classic", "whiskey"]
+  }
+]
